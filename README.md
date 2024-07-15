@@ -1,4 +1,4 @@
-   # Phoenix-MD 
+   # king-MD 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Phoenix-MD;Multi+Divice+Whatsapp+Bot;Coded+By+Abhishek Suresh" alt="Typing SVG" /></a>
   
@@ -14,7 +14,7 @@
 
 ####  
 Phoenix-MD Multi Device Whatsapp Bot.
-## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
+## <sub>[External Plugins]
 
 ***
 
@@ -22,13 +22,13 @@ Phoenix-MD Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/Phoenix-MD/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/AbhishekSuresh2/Phoenix-MD/fork"><img title=Phoenix-MD" src="https://img.shields.io/badge/FORK  Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
 
-<a href="https://phoenix-md-session-2d1abf43e37e.herokuapp.com/"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://Phoenix-md-session-2d1abf43e37e.herokuapp.com/"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
-## Phoenix-MD Deploy Method
+## king-MD Deploy Method
 
 ### Deploy Actions/WorkFlows(Free 24/7 Trick)
 
@@ -45,7 +45,7 @@ Fork The Repo
 
 ### Deploy Heroku 
 
-<a href="https://phoenix-md-deploybot-b19f3afc70e9.herokuapp.com/heroku"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://Phoenix-md-deploybot-b19f3afc70e9.herokuapp.com/heroku"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ### Heroku Tutorial
 
